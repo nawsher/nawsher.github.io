@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+*Gearbox* assembles the logs of Nawsher, a Fintech enthusist!
 
-### More Information
+*Nawsher* is a versatile ICT professional, with 13+ years’ experience successfully bridging the gap between business and technology. With a strong track record in technical product management, solution design and integration, business requirement analysis, project management, and service operations; I have consistently excelled in technology roadmapping for strategy development, innovation and competitive technical intelligence in the FinTech, Mobile Money and M-Commerce space.
 
-A place to include any other types of information that you'd like to include about yourself.
+### More
 
-### Contact me
+Visit my [web profile](https://www.nawsher.me) or [LinkedIn](https://www.linkedin.com/in/nawsher)
 
-[email@domain.com](mailto:email@domain.com)
+### Get in touch
+
+[nawsher@gmail.com](mailto:nawsher@gmail.com)

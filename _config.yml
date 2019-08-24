@@ -9,7 +9,7 @@ name: Gearbox
 description: Logs of a Fintech enthusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/vendetta.jpg
+avatar: ../images/vendetta.jpg
 
 #
 # Flags below are optional

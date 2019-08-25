@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A fintech story: reflecting on product development (draft)
+title: A fintech story - reflecting on product development (draft)
 ---
 
 ## Agility baked-in.
